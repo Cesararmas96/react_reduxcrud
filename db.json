@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "nombre": "canaima",
+      "precio": 1999,
+      "id": "bfc5d138-42c6-445f-acac-e14431204074"
+    },
+    {
+      "nombre": "dsd",
+      "precio": 2,
+      "id": "474e5797-0e74-43ab-a7a0-dfd8b0a62036"
+    },
+    {
+      "nombre": "gg",
+      "precio": 2,
+      "id": "acde3014-1522-43bf-b0e9-90090bc23724"
+    },
+    {
+      "nombre": "erasear",
+      "precio": 20,
+      "id": "edea38f9-c0b6-4ea5-bda3-62af75b8148c"
+    },
+    {
+      "nombre": "manteca",
+      "precio": 10,
+      "id": "049150b4-8577-43ce-88ad-fe64ba8104da"
+    },
+    {
+      "nombre": "amarillo",
+      "precio": 20,
+      "id": "ded5d339-4c83-48ab-ad78-9d11aef26c98"
+    },
+    {
+      "nombre": "zorro",
+      "precio": 200,
+      "id": "60506d30-d63e-44e8-aaa7-98a254904bb3"
+    },
+    {
+      "nombre": "lolo",
+      "precio": 29,
+      "id": "52298692-c3f8-4d92-abc8-0463057740ad"
+    },
+    {
+      "nombre": "io",
+      "precio": 222,
+      "id": "82e16bf0-06f3-43af-bf5a-4e99c41cd2ac"
+    },
+    {
+      "nombre": "b",
+      "precio": 2,
+      "id": "3bcac6b1-ab59-4c7d-adcc-21d8755e5363"
+    },
+    {
+      "nombre": "c",
+      "precio": 3,
+      "id": "f0c8a3dc-fb44-4f49-bf82-a471dca7ca6d"
+    },
+    {
+      "nombre": "kkkkkkkkkkkkkkkkkkkkkkkddddddddddddddddddddddddddddddddsdsdsdsdsdsdsdsdsd",
+      "precio": 200,
+      "id": "ea3e7792-b30b-4921-855b-17388d306830"
+    },
+    {
+      "nombre": "",
+      "precio": 3,
+      "id": "85e96093-02a1-4729-a692-7f3c312689c6"
+    },
+    {
+      "nombre": "or",
+      "precio": 23,
+      "id": "7480fe10-2aed-4cbf-af8f-6f34875cbb0b"
+    },
+    {
+      "nombre": "m",
+      "precio": 2,
+      "id": "d643c498-b08a-4b55-9eef-58fbaf7529a1"
+    },
+    {
+      "nombre": "9",
+      "precio": 2,
+      "id": "225f46e9-055d-49ab-b66d-7eb94cac0b03"
+    }
+  ]
+}
