@@ -126,7 +126,7 @@ export function borrarProductoAction(id){
 
 const obtnerProductoEliminar = id =>({
 	type: OBTENER_PRODUCTO_ELIMINAR,
-	payload: idK
+	payload: id
 })
 
 const eliminarProductoExito = () =>({
